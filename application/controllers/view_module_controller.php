@@ -17,6 +17,7 @@ class View_module_controller extends CI_Controller
 		$data['name'] = $name;
 		$data['html'] = $this->view_module_model->getViewModule($name, $params_hash);
 		$data['title'] = $name;
+		$data['url'] = current_url();
 		
 		$this->load->helper('form');
 		$this->load->library('form_validation');
@@ -25,6 +26,10 @@ class View_module_controller extends CI_Controller
 		$this->load->view('templates/header', $data);
 		$this->load->view('view_module/view_view', $data);
 		$this->load->view('templates/footer');
+	}
+	
+	public function iframe(){
+		$this->load->view('view_module/iframe_view');
 	}
 	
 	public function save(){
@@ -45,7 +50,12 @@ class View_module_controller extends CI_Controller
 		else
 		{
 			$this->view_module_model->setViewModule($name, $data);
-			$this->load->view('news/success');
+			
+			$data['title'] = $data['name'];
+			$data['url'] = str_replace("name/$name", "name/{$data['name']}", $this->input->post("url"));
+			$this->load->view('templates/header', $data);  
+			$this->load->view('view_module/success_view', $data);
+			$this->load->view('templates/footer');
 		}
 	}
 }
