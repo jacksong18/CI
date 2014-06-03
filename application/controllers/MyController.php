@@ -7,6 +7,7 @@
 		
 		function __construct($argument) {
 			// connect db
+			// test for Github
 		}
 		
 		
