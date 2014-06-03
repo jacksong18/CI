@@ -1,0 +1,72 @@
+
+#container
+{
+	background-color: #e5eecc;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	height: auto;
+	width: 100%;
+	border: solid #c3c3c3 1px;
+	min-width: 903px;
+	min-height: 400px;
+}
+
+#left_container
+{
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	bottom: 40px;
+	width: 45%;
+	height: auto;
+}
+
+#left_container .save
+{
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	width: 100px;
+}
+
+#middle_container
+{
+	position: absolute;
+	left: 48%;
+	width: 30px;
+	height: auto;
+}
+
+#middle_container .preview
+{
+	position: absolute;
+	left: 0px;
+	top: 300px;
+	width: 99%;
+}
+
+#right_container
+{
+	
+	position: absolute;
+	top: 5px;
+	right: 10px;
+	bottom: 40px;
+	width: 45%;
+	height: auto;
+}
+
+#view_module_editor
+{
+	position: absolute;
+	top: 30px;
+	left: 0px;
+	right: 0px;
+	bottom: 40px;
+	resize: none;
+	width: 99%;
+	min-width: 400px;
+	min-height: 350px;
+}
