@@ -5,7 +5,11 @@ class View_module_model extends CI_Model {
 		$this->load->database();
 	}
   
-	public function setViewModule($name, $data){
+	public function newViewModule($data){
+		$this->db->insert('view_modules', $data);
+	}
+  
+	public function editViewModule($name, $data){
 		$this->db->update('view_modules', $data, array('name' => $name));
 	}
 	
@@ -25,24 +29,14 @@ class View_module_model extends CI_Model {
 		return $html;
 	}
 	
-	public function getViewModules($params_hashs = FALSE){
-		$query = $this->db->get('view_modules');
-		$rows = $query->result_array();
-		if ($params_hashs === FALSE)
-		{
-			return $rows;
-		}
+	public function getViewModules(){
+		$this->db->select('name');
+		$this->db->from('view_modules');
+		$this->db->order_by("name"); 
+		//$this->db->select("('SELECT SUM(payments.amount) FROM payments WHERE payments.invoice_id=4') AS amount_paid", FALSE); 
+		$query = $this->db->get();
 		
-		for($i = 0; $i < count($row); $i++){
-			$html = $rows[$i]['html'];
-			foreach($params_hashs[$i] as $key => $val){
-				//{%$key} to $val
-				$html = str_replace("{%$key}", $val, $html);
-			}
-			$rows[$i]['html'] = $html;
-		}
-		
-		return $rows;
+		return $query->result_array();
 	}
 	
 	function __destruct(){

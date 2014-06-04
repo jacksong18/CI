@@ -5,7 +5,7 @@
                 <input type="text" class="key" id="key<?=$i?>" value="<?=$key?>" placeholder="key" /></br>
                 <textarea class="val" id="val<?=$i?>"><?=$val?></textarea></br>
             </div>
-        <?php $i++; }?>
+        <?php $i++; } ?>
         <div class="param_pair">
             <input type="text" class="key" id="key<?=$i?>" value="" placeholder="key" /></br>
             <textarea class="val" id="val<?=$i?>"></textarea></br>
@@ -23,12 +23,22 @@
 		<?php echo form_open('view_module_controller/save'); ?>
 			<input type="hidden" name="old_name" value=<?=$name?> />
 			<label for="text">name</label>
-			<input type="text" name="name" value=<?=$name?> />
+			<input type="text" id="name" name="name" value=<?=$name?> placeholder="new name（不能为空）"/>
+			<select id="action" name="action">
+				<option value="new" <?php if(!$has_name){ echo 'selected';} ?>>新建</option>
+				<option value="edit" <?php if($has_name){ echo 'selected';} ?>>编辑</option>
+			</select>
+			<select id="name_list" <?php if(!$has_name){ echo "style='display: none;'";} ?>>
+				<option value="" <?php if(!$has_name){ echo 'selected';} ?> disabled></option>
+				<?php foreach ($name_list as $n) { ?>
+				<option value="<?=$n['name']?>" <?php if($n['name'] == $name){ echo 'selected';} ?>><?=$n['name']?></option>
+				<?php } ?>
+			</select>
 			</br><span id="span_html">html</span></br>
 			<textarea id="view_module_editor" name="html"><?=$html?></textarea>
 			
-			<input type="hidden" name="url" value="<?=$url?>"/>
-			<input type="submit" name="submit" value="保存" class="save"/>
+			<input type="hidden" name="url" id="url" value="<?=$url?>"/>
+			<input type="submit" id="save" name="submit" value="保存" class="save"/>
 		</form>
 	</div>
 	<div id="middle_container">
@@ -42,8 +52,40 @@
 </div>
 <script>
     $(document).ready(function(){
+        $('#action').change(function(){
+            $('#name_list').toggle();
+        });
+        
+        $('#name_list').change(function(){
+            var url = window.location.href;
+            var new_url = url.replace(/name.+?\//, 'name/' + $('#name_list').val() + '/');
+            // when there are no params
+            if(new_url == url){ new_url = url.replace(/name.+/, 'name/' + $('#name_list').val()); }
+			window.location.href = new_url;
+        });
+        
+        $('#save').click(function(){
+        	if($('#name').val() == ''){
+        		alert('name不能为空');
+        		return false;
+        	}
+        	
+            var param_cnt = $('#param_cnt').val();
+            var url = window.location.href;
+            url = url.replace(/name.+/, 'name/' + $('#name').val() + '/');
+            var i = 1;
+            for(i = 1; i <= param_cnt; i++){
+                var key = $('#key' + i).val();
+                var val = $('#val' + i).val();
+                if($.trim(key) != ''){ url = url + key + '/' + val + '/'; }
+            }
+            
+            $('#url').val(url);
+        });
+        
         $('#preview').click(function(){
             var html = $('#view_module_editor').val();
+        	
             var param_cnt = $('#param_cnt').val();
             var i = 1;
             for(i = 1; i <= param_cnt; i++){
