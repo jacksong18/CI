@@ -1,4 +1,23 @@
 <div id="container">
+    <div id="param_list">
+        <?php $i = 1; foreach ($params_hash as $key => $val) { ?>
+            <div class="param_pair">
+                <input type="text" class="key" id="key<?=$i?>" value="<?=$key?>" placeholder="key" /></br>
+                <textarea class="val" id="val<?=$i?>"><?=$val?></textarea></br>
+            </div>
+        <?php $i++; }?>
+        <div class="param_pair">
+            <input type="text" class="key" id="key<?=$i?>" value="" placeholder="key" /></br>
+            <textarea class="val" id="val<?=$i?>"></textarea></br>
+        </div>
+        <input type="hidden" id="param_cnt" value="<?=$i?>"/>
+        <div id="hidden_param_pair">
+            <div class="param_pair">
+                <input type="text" class="key" id="key{%cnt}" value="" placeholder="key" /></br>
+                <textarea class="val" id="val{%cnt}"></textarea></br>
+            </div>
+        </div>
+    </div>
 	<div id="left_container">
 		<?php echo validation_errors(); ?>
 		<?php echo form_open('view_module_controller/save'); ?>
@@ -13,7 +32,7 @@
 		</form>
 	</div>
 	<div id="middle_container">
-		<input type="button" name="preview" value=">>" class="preview" onclick="$('#html_display').contents().find('div').html($('#view_module_editor').val());"/>
+		<input type="button" id="preview" name="preview" value="预览>>" class="preview" />
 	</div>
 	<div id="right_container">
 		</br><span id="span_result">result</span></br>
@@ -21,3 +40,58 @@
 		</iframe>
 	</div>
 </div>
+<script>
+    $(document).ready(function(){
+        $('#preview').click(function(){
+            var html = $('#view_module_editor').val();
+            var param_cnt = $('#param_cnt').val();
+            var i = 1;
+            for(i = 1; i <= param_cnt; i++){
+                var key = $('#key' + i).val();
+                var val = $('#val' + i).val();
+                var search = new RegExp('{%' + key + '}', 'g');
+                html = html.replace(search, val);
+            }
+            
+            $('#html_display').contents().find('div').html(html);
+        });
+        
+        function keyBlurAction(id, current_val){
+            var param_cnt = $('#param_cnt').val();
+            var i = 1;
+            for(i = 1; i <= param_cnt; i++){
+                var key = $('#key' + i).val();
+                if($.trim(key) === ''){
+                    return false;
+                }
+            }
+            
+            var num = id.replace('key', '');
+            var param_cnt_1 = Number(param_cnt) + 1;
+            var add_html = $('#hidden_param_pair').html();
+            add_html = add_html.replace(/\{\%cnt\}/g, param_cnt_1);
+            $('#param_list').append(add_html);
+            
+            $('#param_cnt').val(param_cnt_1);
+        }
+        
+        $("#param_list").delegate( ".key", "blur", function(){
+            var param_cnt = $('#param_cnt').val();
+            var i = 1;
+            for(i = 1; i <= param_cnt; i++){
+                var key = $('#key' + i).val();
+                if($.trim(key) === ''){
+                    return false;
+                }
+            }
+            
+            var param_cnt_1 = Number(param_cnt) + 1;
+            var add_html = $('#hidden_param_pair').html();
+            add_html = add_html.replace(/\{\%cnt\}/g, param_cnt_1);
+            $('#param_list').append(add_html);
+            
+            $('#param_cnt').val(param_cnt_1);
+            
+        });
+    });
+</script>

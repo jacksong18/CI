@@ -15,9 +15,10 @@ class View_module_controller extends CI_Controller
 		unset($get['name']);
 		$params_hash = $get;
 		$data['name'] = $name;
-		$data['html'] = $this->view_module_model->getViewModule($name, $params_hash);
+		$data['html'] = $this->view_module_model->getViewModule($name);
 		$data['title'] = $name;
 		$data['url'] = current_url();
+        $data['params_hash'] = $params_hash;
 		
 		$this->load->helper('form');
 		$this->load->library('form_validation');
