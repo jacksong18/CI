@@ -30,5 +30,23 @@ class Category_controller extends CI_Controller
         $this->load->view('category/category_view', $data);
         $this->load->view('templates/footer');
     }
+
+    public function grabChildCategories($id){
+        $data['title'] = 'Grab Categories From Yahoo';
+        $data['xml_array'] = $this->category_model->grabChildCategoriesFromYahoo($id);
+        
+        $this->load->view('templates/header', $data);
+        $this->load->view('category/grab_view', $data);
+        $this->load->view('templates/footer');
+    }
+
+    public function grabAllChildCategories($id){
+        $data['title'] = 'Grab All Child Categories From Yahoo';
+        $data['all_child_categories'] = $this->category_model->grabAllChildCategoriesFromYahoo($id);
+        
+        $this->load->view('templates/header', $data);
+        $this->load->view('category/grab_all_view', $data);
+        $this->load->view('templates/footer');
+    }
 }
 ?>
