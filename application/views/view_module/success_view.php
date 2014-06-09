@@ -1,2 +1,2 @@
-Success!</br>
+成功!</br>
 <input type="button" value="返回" onclick="window.location.href='<?=$url?>'"/>

@@ -34,19 +34,50 @@ class Category_controller extends CI_Controller
     public function grabChildCategories($id){
         $data['title'] = 'Grab Categories From Yahoo';
         $data['xml_array'] = $this->category_model->grabChildCategoriesFromYahoo($id);
+		//$data['category_names'] = $this->category_model->getCategoryNames();
         
         $this->load->view('templates/header', $data);
         $this->load->view('category/grab_view', $data);
         $this->load->view('templates/footer');
     }
+	
 
-    public function grabAllChildCategories($id){
+    public function grabAllChildCategories($id, $depth = FALSE){
         $data['title'] = 'Grab All Child Categories From Yahoo';
-        $data['all_child_categories'] = $this->category_model->grabAllChildCategoriesFromYahoo($id);
+        $data['all_child_categories'] = $this->category_model->grabAllChildCategoriesFromYahoo($id, $depth);
         
         $this->load->view('templates/header', $data);
         $this->load->view('category/grab_all_view', $data);
         $this->load->view('templates/footer');
     }
+	
+    public function showTranslateCategories($depth){
+        $data['title'] = '翻译类目信息';
+        $data['depth'] = $depth;
+        $data['depth_categories'] = $this->category_model->getDepthCategories($depth);
+		//$data['category_names'] = $this->category_model->getCategoryNames();
+        
+        $this->load->helper('form');
+        $this->load->view('templates/header', $data);
+        $this->load->view('category/translate_view', $data);
+        $this->load->view('templates/footer');
+    }
+
+	public function translateSave(){
+		$cnt = $this->input->post("cnt");
+		$depth = $this->input->post("depth");
+		for($i = 0; $i < $cnt; $i++){
+			$id = $this->input->post("id_$i");
+			$cn = $this->input->post("cn_$i");
+			$this->category_model->updateTranslateCategory($id, $cn, $depth);
+		}
+		
+		$data['url'] = $this->input->post("url");
+		//$data['url'] = str_replace("name/$name", "name/{$data['name']}", $this->input->post("url"));
+		$this->load->view('templates/header', $data);  
+		$this->load->view('view_module/success_view', $data);
+		$this->load->view('templates/footer');
+		
+	}
 }
 ?>

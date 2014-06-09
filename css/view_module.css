@@ -12,6 +12,23 @@
 	min-height: 400px;
 }
 
+#container2
+{
+	background-color: #e5eecc;
+}
+
+.category_id
+{
+	background-color: #e5eecc;
+	width: 75px;
+}
+
+#category_save
+{
+	position: absolute;
+	left: 600px;
+}
+
 #param_list
 {
 	position: absolute;

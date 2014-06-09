@@ -1,0 +1,3509 @@
+top_id: 25888 depth: 2
+array(13) {
+  [0]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023782"
+    ["CategoryName"]=>
+    string(24) "コミック、アニメ"
+    ["CategoryPath"]=>
+    string(90) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ"
+    ["CategoryIdPath"]=>
+    string(24) "0,25464,25888,2084023782"
+    ["NumOfAuctions"]=>
+    string(6) "231346"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "0"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [1]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023622"
+    ["CategoryName"]=>
+    string(6) "特撮"
+    ["CategoryPath"]=>
+    string(72) "オークション > おもちゃ、ゲーム > フィギュア > 特撮"
+    ["CategoryIdPath"]=>
+    string(24) "0,25464,25888,2084023622"
+    ["NumOfAuctions"]=>
+    string(5) "72533"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "1"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [2]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040564"
+    ["CategoryName"]=>
+    string(27) "ゲームキャラクター"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター"
+    ["CategoryIdPath"]=>
+    string(24) "0,25464,25888,2084040564"
+    ["NumOfAuctions"]=>
+    string(5) "35161"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "2"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [3]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023799"
+    ["CategoryName"]=>
+    string(35) "SF、ファンタジー、ホラー"
+    ["CategoryPath"]=>
+    string(101) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー"
+    ["CategoryIdPath"]=>
+    string(24) "0,25464,25888,2084023799"
+    ["NumOfAuctions"]=>
+    string(5) "15824"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "3"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [4]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(5) "21688"
+    ["CategoryName"]=>
+    string(12) "アメコミ"
+    ["CategoryPath"]=>
+    string(78) "オークション > おもちゃ、ゲーム > フィギュア > アメコミ"
+    ["CategoryIdPath"]=>
+    string(19) "0,25464,25888,21688"
+    ["NumOfAuctions"]=>
+    string(4) "9392"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "4"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [5]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(5) "25892"
+    ["CategoryName"]=>
+    string(12) "スポーツ"
+    ["CategoryPath"]=>
+    string(78) "オークション > おもちゃ、ゲーム > フィギュア > スポーツ"
+    ["CategoryIdPath"]=>
+    string(19) "0,25464,25888,25892"
+    ["NumOfAuctions"]=>
+    string(4) "9185"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "5"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [6]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(5) "25890"
+    ["CategoryName"]=>
+    string(15) "ミリタリー"
+    ["CategoryPath"]=>
+    string(81) "オークション > おもちゃ、ゲーム > フィギュア > ミリタリー"
+    ["CategoryIdPath"]=>
+    string(19) "0,25464,25888,25890"
+    ["NumOfAuctions"]=>
+    string(4) "5456"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "6"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [7]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084063729"
+    ["CategoryName"]=>
+    string(9) "生き物"
+    ["CategoryPath"]=>
+    string(75) "オークション > おもちゃ、ゲーム > フィギュア > 生き物"
+    ["CategoryIdPath"]=>
+    string(24) "0,25464,25888,2084063729"
+    ["NumOfAuctions"]=>
+    string(4) "9063"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "7"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [8]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023795"
+    ["CategoryName"]=>
+    string(24) "芸能人、タレント"
+    ["CategoryPath"]=>
+    string(90) "オークション > おもちゃ、ゲーム > フィギュア > 芸能人、タレント"
+    ["CategoryIdPath"]=>
+    string(24) "0,25464,25888,2084023795"
+    ["NumOfAuctions"]=>
+    string(4) "3454"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "8"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [9]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084042426"
+    ["CategoryName"]=>
+    string(9) "時代劇"
+    ["CategoryPath"]=>
+    string(75) "オークション > おもちゃ、ゲーム > フィギュア > 時代劇"
+    ["CategoryIdPath"]=>
+    string(24) "0,25464,25888,2084042426"
+    ["NumOfAuctions"]=>
+    string(4) "1052"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(1) "9"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [10]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023831"
+    ["CategoryName"]=>
+    string(24) "創作、オリジナル"
+    ["CategoryPath"]=>
+    string(90) "オークション > おもちゃ、ゲーム > フィギュア > 創作、オリジナル"
+    ["CategoryIdPath"]=>
+    string(24) "0,25464,25888,2084023831"
+    ["NumOfAuctions"]=>
+    string(4) "6237"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(2) "10"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [11]=>
+  array(11) {
+    ["CategoryId"]=>
+    string(5) "25870"
+    ["CategoryName"]=>
+    string(27) "キャラクタードール"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > キャラクタードール"
+    ["CategoryIdPath"]=>
+    string(19) "0,25464,25888,25870"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(2) "11"
+    ["IsLink"]=>
+    string(4) "true"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [12]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084309436"
+    ["CategoryName"]=>
+    string(9) "その他"
+    ["CategoryPath"]=>
+    string(75) "オークション > おもちゃ、ゲーム > フィギュア > その他"
+    ["CategoryIdPath"]=>
+    string(24) "0,25464,25888,2084309436"
+    ["NumOfAuctions"]=>
+    string(4) "9200"
+    ["ParentCategoryId"]=>
+    string(5) "25888"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "3"
+    ["Order"]=>
+    string(2) "12"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+}
+top_id: 2084023782 depth: 1
+array(51) {
+  [0]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040574"
+    ["CategoryName"]=>
+    string(5) "AKIRA"
+    ["CategoryPath"]=>
+    string(98) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > AKIRA"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084040574"
+    ["NumOfAuctions"]=>
+    string(3) "193"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "0"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [1]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305367"
+    ["CategoryName"]=>
+    string(47) "IS＜インフィニット・ストラトス＞"
+    ["CategoryPath"]=>
+    string(140) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > IS＜インフィニット・ストラトス＞"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305367"
+    ["NumOfAuctions"]=>
+    string(3) "730"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "1"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [2]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023784"
+    ["CategoryName"]=>
+    string(18) "うる星やつら"
+    ["CategoryPath"]=>
+    string(111) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > うる星やつら"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023784"
+    ["NumOfAuctions"]=>
+    string(3) "287"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "2"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [3]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084222804"
+    ["CategoryName"]=>
+    string(12) "一騎当千"
+    ["CategoryPath"]=>
+    string(105) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 一騎当千"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084222804"
+    ["NumOfAuctions"]=>
+    string(3) "601"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "3"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [4]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040580"
+    ["CategoryName"]=>
+    string(21) "宇宙戦艦ヤマト"
+    ["CategoryPath"]=>
+    string(114) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 宇宙戦艦ヤマト"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084040580"
+    ["NumOfAuctions"]=>
+    string(3) "925"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "4"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [5]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305368"
+    ["CategoryName"]=>
+    string(48) "俺の妹がこんなに可愛いわけがない"
+    ["CategoryPath"]=>
+    string(141) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 俺の妹がこんなに可愛いわけがない"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305368"
+    ["NumOfAuctions"]=>
+    string(3) "678"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "5"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [6]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084259896"
+    ["CategoryName"]=>
+    string(15) "けいおん！"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > けいおん！"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084259896"
+    ["NumOfAuctions"]=>
+    string(4) "2972"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "6"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [7]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023728"
+    ["CategoryName"]=>
+    string(12) "ガンダム"
+    ["CategoryPath"]=>
+    string(105) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ガンダム"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023728"
+    ["NumOfAuctions"]=>
+    string(5) "31828"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "7"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [8]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040582"
+    ["CategoryName"]=>
+    string(27) "キューティーハニー"
+    ["CategoryPath"]=>
+    string(120) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > キューティーハニー"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084040582"
+    ["NumOfAuctions"]=>
+    string(3) "325"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "8"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [9]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023766"
+    ["CategoryName"]=>
+    string(15) "キン肉マン"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > キン肉マン"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023766"
+    ["NumOfAuctions"]=>
+    string(4) "6417"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "9"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [10]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236114"
+    ["CategoryName"]=>
+    string(18) "クローズ WORST"
+    ["CategoryPath"]=>
+    string(111) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > クローズ WORST"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236114"
+    ["NumOfAuctions"]=>
+    string(4) "2069"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "10"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [11]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084062241"
+    ["CategoryName"]=>
+    string(15) "ケロロ軍曹"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ケロロ軍曹"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084062241"
+    ["NumOfAuctions"]=>
+    string(3) "748"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "11"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [12]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236120"
+    ["CategoryName"]=>
+    string(18) "コードギアス"
+    ["CategoryPath"]=>
+    string(111) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > コードギアス"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236120"
+    ["NumOfAuctions"]=>
+    string(4) "1034"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "12"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [13]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236116"
+    ["CategoryName"]=>
+    string(37) "家庭教師ヒットマン REBORN！"
+    ["CategoryPath"]=>
+    string(130) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 家庭教師ヒットマン REBORN！"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236116"
+    ["NumOfAuctions"]=>
+    string(3) "422"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "13"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [14]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236106"
+    ["CategoryName"]=>
+    string(6) "銀魂"
+    ["CategoryPath"]=>
+    string(99) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 銀魂"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236106"
+    ["NumOfAuctions"]=>
+    string(4) "1986"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "14"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [15]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040583"
+    ["CategoryName"]=>
+    string(30) "ジョジョの奇妙な冒険"
+    ["CategoryPath"]=>
+    string(123) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ジョジョの奇妙な冒険"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084040583"
+    ["NumOfAuctions"]=>
+    string(4) "4605"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "15"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [16]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305376"
+    ["CategoryName"]=>
+    string(33) "ストライクウィッチーズ"
+    ["CategoryPath"]=>
+    string(126) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ストライクウィッチーズ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305376"
+    ["NumOfAuctions"]=>
+    string(3) "372"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "16"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [17]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236111"
+    ["CategoryName"]=>
+    string(18) "灼眼のシャナ"
+    ["CategoryPath"]=>
+    string(111) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 灼眼のシャナ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236111"
+    ["NumOfAuctions"]=>
+    string(3) "254"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "17"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [18]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305375"
+    ["CategoryName"]=>
+    string(17) "侵略!?イカ娘"
+    ["CategoryPath"]=>
+    string(110) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 侵略!?イカ娘"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305375"
+    ["NumOfAuctions"]=>
+    string(3) "165"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "18"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [19]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023785"
+    ["CategoryName"]=>
+    string(33) "新世紀エヴァンゲリオン"
+    ["CategoryPath"]=>
+    string(126) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 新世紀エヴァンゲリオン"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023785"
+    ["NumOfAuctions"]=>
+    string(4) "9841"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "19"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [20]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084195224"
+    ["CategoryName"]=>
+    string(15) "聖闘士星矢"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 聖闘士星矢"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084195224"
+    ["NumOfAuctions"]=>
+    string(4) "3388"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "20"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [21]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084222803"
+    ["CategoryName"]=>
+    string(24) "涼宮ハルヒの憂鬱"
+    ["CategoryPath"]=>
+    string(117) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 涼宮ハルヒの憂鬱"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084222803"
+    ["NumOfAuctions"]=>
+    string(4) "1718"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "21"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [22]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305377"
+    ["CategoryName"]=>
+    string(13) "TIGER＆BUNNY"
+    ["CategoryPath"]=>
+    string(106) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > TIGER＆BUNNY"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305377"
+    ["NumOfAuctions"]=>
+    string(4) "1290"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "22"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [23]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236123"
+    ["CategoryName"]=>
+    string(10) "To LOVEる"
+    ["CategoryPath"]=>
+    string(103) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > To LOVEる"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236123"
+    ["NumOfAuctions"]=>
+    string(3) "480"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "23"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [24]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305378"
+    ["CategoryName"]=>
+    string(42) "とある（禁書目録、超電磁砲）"
+    ["CategoryPath"]=>
+    string(135) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > とある（禁書目録、超電磁砲）"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305378"
+    ["NumOfAuctions"]=>
+    string(4) "1098"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "24"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [25]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084063730"
+    ["CategoryName"]=>
+    string(15) "ディズニー"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ディズニー"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084063730"
+    ["NumOfAuctions"]=>
+    string(4) "1356"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "25"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [26]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023765"
+    ["CategoryName"]=>
+    string(15) "デビルマン"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > デビルマン"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023765"
+    ["NumOfAuctions"]=>
+    string(3) "956"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "26"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [27]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040584"
+    ["CategoryName"]=>
+    string(21) "ドラゴンボール"
+    ["CategoryPath"]=>
+    string(114) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ドラゴンボール"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084040584"
+    ["NumOfAuctions"]=>
+    string(5) "14608"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "27"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [28]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023769"
+    ["CategoryName"]=>
+    string(11) "鉄人28号"
+    ["CategoryPath"]=>
+    string(104) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 鉄人28号"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023769"
+    ["NumOfAuctions"]=>
+    string(3) "536"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "28"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [29]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023768"
+    ["CategoryName"]=>
+    string(15) "鉄腕アトム"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 鉄腕アトム"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023768"
+    ["NumOfAuctions"]=>
+    string(3) "560"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "29"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [30]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084239889"
+    ["CategoryName"]=>
+    string(30) "天元突破グレンラガン"
+    ["CategoryPath"]=>
+    string(123) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 天元突破グレンラガン"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084239889"
+    ["NumOfAuctions"]=>
+    string(3) "236"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "30"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [31]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084222807"
+    ["CategoryName"]=>
+    string(12) "天上天下"
+    ["CategoryPath"]=>
+    string(105) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 天上天下"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084222807"
+    ["NumOfAuctions"]=>
+    string(2) "87"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "31"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [32]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236113"
+    ["CategoryName"]=>
+    string(6) "NARUTO"
+    ["CategoryPath"]=>
+    string(99) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > NARUTO"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236113"
+    ["NumOfAuctions"]=>
+    string(4) "1366"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "32"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [33]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305379"
+    ["CategoryName"]=>
+    string(15) "夏目友人帳"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 夏目友人帳"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305379"
+    ["NumOfAuctions"]=>
+    string(4) "1057"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "33"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [34]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084241346"
+    ["CategoryName"]=>
+    string(6) "BLEACH"
+    ["CategoryPath"]=>
+    string(99) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > BLEACH"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084241346"
+    ["NumOfAuctions"]=>
+    string(3) "446"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "34"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [35]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236118"
+    ["CategoryName"]=>
+    string(4) "Fate"
+    ["CategoryPath"]=>
+    string(97) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > Fate"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236118"
+    ["NumOfAuctions"]=>
+    string(4) "2469"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "35"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [36]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084242880"
+    ["CategoryName"]=>
+    string(27) "プリキュアシリーズ"
+    ["CategoryPath"]=>
+    string(120) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > プリキュアシリーズ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084242880"
+    ["NumOfAuctions"]=>
+    string(4) "1946"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "36"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [37]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305380"
+    ["CategoryName"]=>
+    string(21) "化物語、偽物語"
+    ["CategoryPath"]=>
+    string(114) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 化物語、偽物語"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305380"
+    ["NumOfAuctions"]=>
+    string(4) "1245"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "37"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [38]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084242879"
+    ["CategoryName"]=>
+    string(18) "鋼の錬金術師"
+    ["CategoryPath"]=>
+    string(111) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 鋼の錬金術師"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084242879"
+    ["NumOfAuctions"]=>
+    string(3) "426"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "38"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [39]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084239888"
+    ["CategoryName"]=>
+    string(12) "初音ミク"
+    ["CategoryPath"]=>
+    string(105) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 初音ミク"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084239888"
+    ["NumOfAuctions"]=>
+    string(4) "4403"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "39"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [40]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023788"
+    ["CategoryName"]=>
+    string(36) "美少女戦士セーラームーン"
+    ["CategoryPath"]=>
+    string(129) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 美少女戦士セーラームーン"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023788"
+    ["NumOfAuctions"]=>
+    string(4) "1446"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "40"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [41]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236115"
+    ["CategoryName"]=>
+    string(12) "北斗の拳"
+    ["CategoryPath"]=>
+    string(105) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 北斗の拳"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236115"
+    ["NumOfAuctions"]=>
+    string(4) "1186"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "41"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [42]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305381"
+    ["CategoryName"]=>
+    string(13) "マクロスF"
+    ["CategoryPath"]=>
+    string(106) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > マクロスF"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305381"
+    ["NumOfAuctions"]=>
+    string(4) "1986"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "42"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [43]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305382"
+    ["CategoryName"]=>
+    string(33) "魔法少女まどか☆マギカ"
+    ["CategoryPath"]=>
+    string(126) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 魔法少女まどか☆マギカ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084305382"
+    ["NumOfAuctions"]=>
+    string(4) "1907"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "43"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [44]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236119"
+    ["CategoryName"]=>
+    string(33) "魔法少女リリカルなのは"
+    ["CategoryPath"]=>
+    string(126) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > 魔法少女リリカルなのは"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236119"
+    ["NumOfAuctions"]=>
+    string(4) "1389"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "44"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [45]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236108"
+    ["CategoryName"]=>
+    string(18) "ヤッターマン"
+    ["CategoryPath"]=>
+    string(111) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ヤッターマン"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236108"
+    ["NumOfAuctions"]=>
+    string(3) "542"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "45"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [46]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236117"
+    ["CategoryName"]=>
+    string(15) "らき☆すた"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > らき☆すた"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084236117"
+    ["NumOfAuctions"]=>
+    string(3) "774"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "46"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [47]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023783"
+    ["CategoryName"]=>
+    string(15) "ルパン三世"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ルパン三世"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023783"
+    ["NumOfAuctions"]=>
+    string(4) "2974"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "47"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [48]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023719"
+    ["CategoryName"]=>
+    string(24) "ロボットヒーロー"
+    ["CategoryPath"]=>
+    string(117) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ロボットヒーロー"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023719"
+    ["NumOfAuctions"]=>
+    string(5) "16117"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "48"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [49]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040581"
+    ["CategoryName"]=>
+    string(9) "ONE PIECE"
+    ["CategoryPath"]=>
+    string(102) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > ONE PIECE"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084040581"
+    ["NumOfAuctions"]=>
+    string(5) "48322"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "49"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [50]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023789"
+    ["CategoryName"]=>
+    string(9) "その他"
+    ["CategoryPath"]=>
+    string(102) "オークション > おもちゃ、ゲーム > フィギュア > コミック、アニメ > その他"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023782,2084023789"
+    ["NumOfAuctions"]=>
+    string(5) "49264"
+    ["ParentCategoryId"]=>
+    string(10) "2084023782"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "50"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+}
+top_id: 2084023622 depth: 1
+array(10) {
+  [0]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023721"
+    ["CategoryName"]=>
+    string(27) "人造人間キカイダー"
+    ["CategoryPath"]=>
+    string(102) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > 人造人間キカイダー"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084023721"
+    ["NumOfAuctions"]=>
+    string(3) "523"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "0"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [1]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023722"
+    ["CategoryName"]=>
+    string(18) "ロボット刑事"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > ロボット刑事"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084023722"
+    ["NumOfAuctions"]=>
+    string(3) "110"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "1"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [2]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023723"
+    ["CategoryName"]=>
+    string(17) "キカイダー01"
+    ["CategoryPath"]=>
+    string(92) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > キカイダー01"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084023723"
+    ["NumOfAuctions"]=>
+    string(3) "144"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "2"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [3]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023623"
+    ["CategoryName"]=>
+    string(18) "ウルトラマン"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > ウルトラマン"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084023623"
+    ["NumOfAuctions"]=>
+    string(5) "19520"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "3"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [4]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023745"
+    ["CategoryName"]=>
+    string(18) "ゴジラ、怪獣"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > ゴジラ、怪獣"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084023745"
+    ["NumOfAuctions"]=>
+    string(4) "5168"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "4"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [5]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023694"
+    ["CategoryName"]=>
+    string(21) "メタルシリーズ"
+    ["CategoryPath"]=>
+    string(96) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > メタルシリーズ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084023694"
+    ["NumOfAuctions"]=>
+    string(3) "916"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "5"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [6]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023644"
+    ["CategoryName"]=>
+    string(18) "仮面ライダー"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > 仮面ライダー"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084023644"
+    ["NumOfAuctions"]=>
+    string(5) "34428"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "6"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [7]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023661"
+    ["CategoryName"]=>
+    string(18) "戦隊シリーズ"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > 戦隊シリーズ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084023661"
+    ["NumOfAuctions"]=>
+    string(4) "8209"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "7"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [8]=>
+  array(11) {
+    ["CategoryId"]=>
+    string(10) "2084023719"
+    ["CategoryName"]=>
+    string(24) "ロボットヒーロー"
+    ["CategoryPath"]=>
+    string(99) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > ロボットヒーロー"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084023719"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "8"
+    ["IsLink"]=>
+    string(4) "true"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [9]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084047373"
+    ["CategoryName"]=>
+    string(9) "その他"
+    ["CategoryPath"]=>
+    string(84) "オークション > おもちゃ、ゲーム > フィギュア > 特撮 > その他"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023622,2084047373"
+    ["NumOfAuctions"]=>
+    string(4) "3650"
+    ["ParentCategoryId"]=>
+    string(10) "2084023622"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "9"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+}
+top_id: 2084040564 depth: 1
+array(26) {
+  [0]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236103"
+    ["CategoryName"]=>
+    string(35) "Piaキャロットへようこそ!!"
+    ["CategoryPath"]=>
+    string(131) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > Piaキャロットへようこそ!!"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084236103"
+    ["NumOfAuctions"]=>
+    string(3) "171"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "0"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [1]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236102"
+    ["CategoryName"]=>
+    string(8) "ToHeart2"
+    ["CategoryPath"]=>
+    string(104) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > ToHeart2"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084236102"
+    ["NumOfAuctions"]=>
+    string(3) "759"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "1"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [2]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305391"
+    ["CategoryName"]=>
+    string(21) "すーぱーそに子"
+    ["CategoryPath"]=>
+    string(117) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > すーぱーそに子"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084305391"
+    ["NumOfAuctions"]=>
+    string(3) "982"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "2"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [3]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040566"
+    ["CategoryName"]=>
+    string(27) "ときめきメモリアル"
+    ["CategoryPath"]=>
+    string(123) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > ときめきメモリアル"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084040566"
+    ["NumOfAuctions"]=>
+    string(3) "512"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "3"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [4]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084239890"
+    ["CategoryName"]=>
+    string(24) "アイドルマスター"
+    ["CategoryPath"]=>
+    string(120) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > アイドルマスター"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084239890"
+    ["NumOfAuctions"]=>
+    string(4) "1643"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "4"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [5]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084048365"
+    ["CategoryName"]=>
+    string(24) "キングダムハーツ"
+    ["CategoryPath"]=>
+    string(120) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > キングダムハーツ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084048365"
+    ["NumOfAuctions"]=>
+    string(3) "207"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "5"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [6]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236100"
+    ["CategoryName"]=>
+    string(27) "クイーンズブレイド"
+    ["CategoryPath"]=>
+    string(123) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > クイーンズブレイド"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084236100"
+    ["NumOfAuctions"]=>
+    string(3) "679"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "6"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [7]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040565"
+    ["CategoryName"]=>
+    string(15) "サクラ大戦"
+    ["CategoryPath"]=>
+    string(111) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > サクラ大戦"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084040565"
+    ["NumOfAuctions"]=>
+    string(3) "492"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "7"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [8]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236105"
+    ["CategoryName"]=>
+    string(27) "サムライスピリッツ"
+    ["CategoryPath"]=>
+    string(123) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > サムライスピリッツ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084236105"
+    ["NumOfAuctions"]=>
+    string(3) "155"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "8"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [9]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236101"
+    ["CategoryName"]=>
+    string(33) "シャイニング・ウィンド"
+    ["CategoryPath"]=>
+    string(129) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > シャイニング・ウィンド"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084236101"
+    ["NumOfAuctions"]=>
+    string(3) "242"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "9"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [10]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084222830"
+    ["CategoryName"]=>
+    string(21) "スーパーマリオ"
+    ["CategoryPath"]=>
+    string(117) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > スーパーマリオ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084222830"
+    ["NumOfAuctions"]=>
+    string(4) "1979"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "10"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [11]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236104"
+    ["CategoryName"]=>
+    string(30) "スーパーロボット大戦"
+    ["CategoryPath"]=>
+    string(126) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > スーパーロボット大戦"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084236104"
+    ["NumOfAuctions"]=>
+    string(3) "627"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "11"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [12]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236580"
+    ["CategoryName"]=>
+    string(30) "ストリートファイター"
+    ["CategoryPath"]=>
+    string(126) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > ストリートファイター"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084236580"
+    ["NumOfAuctions"]=>
+    string(3) "522"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "12"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [13]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040567"
+    ["CategoryName"]=>
+    string(39) "センチメンタル・グラフティ"
+    ["CategoryPath"]=>
+    string(135) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > センチメンタル・グラフティ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084040567"
+    ["NumOfAuctions"]=>
+    string(3) "154"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "13"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [14]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040569"
+    ["CategoryName"]=>
+    string(27) "デジタルモンスター"
+    ["CategoryPath"]=>
+    string(123) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > デジタルモンスター"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084040569"
+    ["NumOfAuctions"]=>
+    string(3) "391"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "14"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [15]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084063700"
+    ["CategoryName"]=>
+    string(29) "デッド オア アライブ"
+    ["CategoryPath"]=>
+    string(125) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > デッド オア アライブ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084063700"
+    ["NumOfAuctions"]=>
+    string(3) "233"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "15"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [16]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084063703"
+    ["CategoryName"]=>
+    string(24) "ドラゴンクエスト"
+    ["CategoryPath"]=>
+    string(120) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > ドラゴンクエスト"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084063703"
+    ["NumOfAuctions"]=>
+    string(4) "4141"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "16"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [17]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040568"
+    ["CategoryName"]=>
+    string(33) "ファイナルファンタジー"
+    ["CategoryPath"]=>
+    string(129) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > ファイナルファンタジー"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084040568"
+    ["NumOfAuctions"]=>
+    string(4) "2347"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "17"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [18]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305394"
+    ["CategoryName"]=>
+    string(24) "ペルソナシリーズ"
+    ["CategoryPath"]=>
+    string(120) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > ペルソナシリーズ"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084305394"
+    ["NumOfAuctions"]=>
+    string(3) "927"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "18"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [19]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236581"
+    ["CategoryName"]=>
+    string(27) "モンスターハンター"
+    ["CategoryPath"]=>
+    string(123) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > モンスターハンター"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084236581"
+    ["NumOfAuctions"]=>
+    string(4) "2620"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "19"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [20]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084305395"
+    ["CategoryName"]=>
+    string(15) "ラブプラス"
+    ["CategoryPath"]=>
+    string(111) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > ラブプラス"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084305395"
+    ["NumOfAuctions"]=>
+    string(3) "149"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "20"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [21]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084239892"
+    ["CategoryName"]=>
+    string(27) "リトルバスターズ！"
+    ["CategoryPath"]=>
+    string(123) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > リトルバスターズ！"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084239892"
+    ["NumOfAuctions"]=>
+    string(3) "418"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "21"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [22]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084242881"
+    ["CategoryName"]=>
+    string(12) "戦国BASARA"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > 戦国BASARA"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084242881"
+    ["NumOfAuctions"]=>
+    string(3) "446"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "22"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [23]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084242882"
+    ["CategoryName"]=>
+    string(13) "東方Project"
+    ["CategoryPath"]=>
+    string(109) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > 東方Project"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084242882"
+    ["NumOfAuctions"]=>
+    string(3) "790"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "23"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [24]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236099"
+    ["CategoryName"]=>
+    string(12) "武装神姫"
+    ["CategoryPath"]=>
+    string(108) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > 武装神姫"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084236099"
+    ["NumOfAuctions"]=>
+    string(3) "393"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "24"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [25]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040570"
+    ["CategoryName"]=>
+    string(9) "その他"
+    ["CategoryPath"]=>
+    string(105) "オークション > おもちゃ、ゲーム > フィギュア > ゲームキャラクター > その他"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084040564,2084040570"
+    ["NumOfAuctions"]=>
+    string(5) "13261"
+    ["ParentCategoryId"]=>
+    string(10) "2084040564"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "25"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+}
+top_id: 2084023799 depth: 1
+array(11) {
+  [0]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040561"
+    ["CategoryName"]=>
+    string(17) "13日の金曜日"
+    ["CategoryPath"]=>
+    string(121) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > 13日の金曜日"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084040561"
+    ["NumOfAuctions"]=>
+    string(3) "100"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "0"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [1]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084242884"
+    ["CategoryName"]=>
+    string(18) "アイアンマン"
+    ["CategoryPath"]=>
+    string(122) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > アイアンマン"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084242884"
+    ["NumOfAuctions"]=>
+    string(3) "696"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "1"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [2]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040558"
+    ["CategoryName"]=>
+    string(15) "エイリアン"
+    ["CategoryPath"]=>
+    string(119) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > エイリアン"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084040558"
+    ["NumOfAuctions"]=>
+    string(3) "564"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "2"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [3]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040560"
+    ["CategoryName"]=>
+    string(21) "エルム街の悪夢"
+    ["CategoryPath"]=>
+    string(125) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > エルム街の悪夢"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084040560"
+    ["NumOfAuctions"]=>
+    string(3) "139"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "3"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [4]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040585"
+    ["CategoryName"]=>
+    string(54) "ザ・ナイトメア・ビフォア・クリスマス"
+    ["CategoryPath"]=>
+    string(158) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > ザ・ナイトメア・ビフォア・クリスマス"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084040585"
+    ["NumOfAuctions"]=>
+    string(3) "773"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "4"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [5]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(5) "40577"
+    ["CategoryName"]=>
+    string(36) "スター・ウォーズシリーズ"
+    ["CategoryPath"]=>
+    string(140) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > スター・ウォーズシリーズ"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,2084023799,40577"
+    ["NumOfAuctions"]=>
+    string(4) "6401"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(5) "false"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "5"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [6]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023848"
+    ["CategoryName"]=>
+    string(21) "スタートレック"
+    ["CategoryPath"]=>
+    string(125) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > スタートレック"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084023848"
+    ["NumOfAuctions"]=>
+    string(3) "613"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "6"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [7]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084242883"
+    ["CategoryName"]=>
+    string(21) "ターミネーター"
+    ["CategoryPath"]=>
+    string(125) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > ターミネーター"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084242883"
+    ["NumOfAuctions"]=>
+    string(3) "594"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "7"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [8]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040559"
+    ["CategoryName"]=>
+    string(15) "プレデター"
+    ["CategoryPath"]=>
+    string(119) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > プレデター"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084040559"
+    ["NumOfAuctions"]=>
+    string(3) "449"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "8"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [9]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040563"
+    ["CategoryName"]=>
+    string(12) "猿の惑星"
+    ["CategoryPath"]=>
+    string(116) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > 猿の惑星"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084040563"
+    ["NumOfAuctions"]=>
+    string(3) "193"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "9"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [10]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084046903"
+    ["CategoryName"]=>
+    string(9) "その他"
+    ["CategoryPath"]=>
+    string(113) "オークション > おもちゃ、ゲーム > フィギュア > SF、ファンタジー、ホラー > その他"
+    ["CategoryIdPath"]=>
+    string(35) "0,25464,25888,2084023799,2084046903"
+    ["NumOfAuctions"]=>
+    string(4) "5366"
+    ["ParentCategoryId"]=>
+    string(10) "2084023799"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(2) "10"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+}
+top_id: 21688 depth: 1
+array(6) {
+  [0]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023775"
+    ["CategoryName"]=>
+    string(7) "Xメン"
+    ["CategoryPath"]=>
+    string(88) "オークション > おもちゃ、ゲーム > フィギュア > アメコミ > Xメン"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,21688,2084023775"
+    ["NumOfAuctions"]=>
+    string(3) "650"
+    ["ParentCategoryId"]=>
+    string(5) "21688"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "0"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [1]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023772"
+    ["CategoryName"]=>
+    string(18) "スーパーマン"
+    ["CategoryPath"]=>
+    string(99) "オークション > おもちゃ、ゲーム > フィギュア > アメコミ > スーパーマン"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,21688,2084023772"
+    ["NumOfAuctions"]=>
+    string(3) "956"
+    ["ParentCategoryId"]=>
+    string(5) "21688"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "1"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [2]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023771"
+    ["CategoryName"]=>
+    string(21) "スパイダーマン"
+    ["CategoryPath"]=>
+    string(102) "オークション > おもちゃ、ゲーム > フィギュア > アメコミ > スパイダーマン"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,21688,2084023771"
+    ["NumOfAuctions"]=>
+    string(4) "1557"
+    ["ParentCategoryId"]=>
+    string(5) "21688"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "2"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [3]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084040694"
+    ["CategoryName"]=>
+    string(12) "スポーン"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > アメコミ > スポーン"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,21688,2084040694"
+    ["NumOfAuctions"]=>
+    string(4) "1171"
+    ["ParentCategoryId"]=>
+    string(5) "21688"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "3"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [4]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023773"
+    ["CategoryName"]=>
+    string(15) "バットマン"
+    ["CategoryPath"]=>
+    string(96) "オークション > おもちゃ、ゲーム > フィギュア > アメコミ > バットマン"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,21688,2084023773"
+    ["NumOfAuctions"]=>
+    string(4) "1826"
+    ["ParentCategoryId"]=>
+    string(5) "21688"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "4"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [5]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023777"
+    ["CategoryName"]=>
+    string(9) "その他"
+    ["CategoryPath"]=>
+    string(90) "オークション > おもちゃ、ゲーム > フィギュア > アメコミ > その他"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,21688,2084023777"
+    ["NumOfAuctions"]=>
+    string(4) "3281"
+    ["ParentCategoryId"]=>
+    string(5) "21688"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "5"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+}
+top_id: 25892 depth: 1
+array(5) {
+  [0]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023792"
+    ["CategoryName"]=>
+    string(12) "サッカー"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > スポーツ > サッカー"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25892,2084023792"
+    ["NumOfAuctions"]=>
+    string(4) "4553"
+    ["ParentCategoryId"]=>
+    string(5) "25892"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "0"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [1]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023793"
+    ["CategoryName"]=>
+    string(15) "バスケット"
+    ["CategoryPath"]=>
+    string(96) "オークション > おもちゃ、ゲーム > フィギュア > スポーツ > バスケット"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25892,2084023793"
+    ["NumOfAuctions"]=>
+    string(3) "295"
+    ["ParentCategoryId"]=>
+    string(5) "25892"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "1"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [2]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023790"
+    ["CategoryName"]=>
+    string(24) "プロレス、格闘技"
+    ["CategoryPath"]=>
+    string(105) "オークション > おもちゃ、ゲーム > フィギュア > スポーツ > プロレス、格闘技"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25892,2084023790"
+    ["NumOfAuctions"]=>
+    string(4) "2750"
+    ["ParentCategoryId"]=>
+    string(5) "25892"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "2"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [3]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023791"
+    ["CategoryName"]=>
+    string(12) "プロ野球"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > スポーツ > プロ野球"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25892,2084023791"
+    ["NumOfAuctions"]=>
+    string(4) "1558"
+    ["ParentCategoryId"]=>
+    string(5) "25892"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "3"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [4]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023794"
+    ["CategoryName"]=>
+    string(9) "その他"
+    ["CategoryPath"]=>
+    string(90) "オークション > おもちゃ、ゲーム > フィギュア > スポーツ > その他"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25892,2084023794"
+    ["NumOfAuctions"]=>
+    string(3) "409"
+    ["ParentCategoryId"]=>
+    string(5) "25892"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "4"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+}
+top_id: 25890 depth: 1
+array(6) {
+  [0]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023610"
+    ["CategoryName"]=>
+    string(13) "G.I.ジョー"
+    ["CategoryPath"]=>
+    string(97) "オークション > おもちゃ、ゲーム > フィギュア > ミリタリー > G.I.ジョー"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25890,2084023610"
+    ["NumOfAuctions"]=>
+    string(4) "2907"
+    ["ParentCategoryId"]=>
+    string(5) "25890"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "0"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [1]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084236098"
+    ["CategoryName"]=>
+    string(18) "クールガール"
+    ["CategoryPath"]=>
+    string(102) "オークション > おもちゃ、ゲーム > フィギュア > ミリタリー > クールガール"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25890,2084236098"
+    ["NumOfAuctions"]=>
+    string(3) "881"
+    ["ParentCategoryId"]=>
+    string(5) "25890"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "1"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [2]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023618"
+    ["CategoryName"]=>
+    string(15) "軍服、洋服"
+    ["CategoryPath"]=>
+    string(99) "オークション > おもちゃ、ゲーム > フィギュア > ミリタリー > 軍服、洋服"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25890,2084023618"
+    ["NumOfAuctions"]=>
+    string(3) "166"
+    ["ParentCategoryId"]=>
+    string(5) "25890"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "2"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [3]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023620"
+    ["CategoryName"]=>
+    string(9) "乗り物"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > ミリタリー > 乗り物"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25890,2084023620"
+    ["NumOfAuctions"]=>
+    string(3) "380"
+    ["ParentCategoryId"]=>
+    string(5) "25890"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "3"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [4]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023619"
+    ["CategoryName"]=>
+    string(21) "武器、個人装備"
+    ["CategoryPath"]=>
+    string(105) "オークション > おもちゃ、ゲーム > フィギュア > ミリタリー > 武器、個人装備"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25890,2084023619"
+    ["NumOfAuctions"]=>
+    string(3) "719"
+    ["ParentCategoryId"]=>
+    string(5) "25890"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "4"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+  [5]=>
+  array(12) {
+    ["CategoryId"]=>
+    string(10) "2084023621"
+    ["CategoryName"]=>
+    string(9) "その他"
+    ["CategoryPath"]=>
+    string(93) "オークション > おもちゃ、ゲーム > フィギュア > ミリタリー > その他"
+    ["CategoryIdPath"]=>
+    string(30) "0,25464,25888,25890,2084023621"
+    ["NumOfAuctions"]=>
+    string(3) "413"
+    ["ParentCategoryId"]=>
+    string(5) "25890"
+    ["IsLeaf"]=>
+    string(4) "true"
+    ["Depth"]=>
+    string(1) "4"
+    ["Order"]=>
+    string(1) "5"
+    ["IsLink"]=>
+    string(5) "false"
+    ["IsAdult"]=>
+    string(5) "false"
+    ["IsLeafToLink"]=>
+    string(5) "false"
+  }
+}
+top_id: 2084063729 depth: 1
+bool(false)
+top_id: 2084023795 depth: 1
+bool(false)
+top_id: 2084042426 depth: 1
+bool(false)
+top_id: 2084023831 depth: 1
+array(12) {
+  ["CategoryId"]=>
+  string(10) "2084041662"
+  ["CategoryName"]=>
+  string(6) "一般"
+  ["CategoryPath"]=>
+  string(99) "オークション > おもちゃ、ゲーム > フィギュア > 創作、オリジナル > 一般"
+  ["CategoryIdPath"]=>
+  string(35) "0,25464,25888,2084023831,2084041662"
+  ["NumOfAuctions"]=>
+  string(4) "6238"
+  ["ParentCategoryId"]=>
+  string(10) "2084023831"
+  ["IsLeaf"]=>
+  string(4) "true"
+  ["Depth"]=>
+  string(1) "4"
+  ["Order"]=>
+  string(1) "0"
+  ["IsLink"]=>
+  string(5) "false"
+  ["IsAdult"]=>
+  string(5) "false"
+  ["IsLeafToLink"]=>
+  string(5) "false"
+}
